@@ -41,7 +41,7 @@ const Services: React.FC = () => {
     {
       title: 'Education Plans',
       description: 'Investing today in the academic success and future careers of your children.',
-      image: 'https://drive.google.com/thumbnail?id=1se_12T4z4x52RMn8l5JvAXK1at5nTx_A&sz=w1000',
+      image: 'https://drive.google.com/thumbnail?id=1ta6psp3wo3DiUr1CwN5UDJUQhgnKD1UU&sz=w1000',
       tag: 'Legacy'
     },
     {
@@ -53,7 +53,7 @@ const Services: React.FC = () => {
     {
       title: 'Marine',
       description: 'Comprehensive coverage for cargo, hulls, and pleasure crafts against the elements.',
-      image: 'https://drive.google.com/thumbnail?id=1fkQmFh8RDQiFDbmxoao7rO6xCrqVlc6y&sz=w1000',
+      image: 'https://drive.google.com/thumbnail?id=1Fk-eFlwAYL5zAH_RRAZrk_8Z-x6jynHB&sz=w1000',
       tag: 'Maritime'
     },
     {
