@@ -1,0 +1,9 @@
+{
+  "name": "Roland Zouein - Insurance Broker",
+  "description": "Premium landing page for Roland Zouein, a professional insurance broker with 10+ years of experience and 100+ families protected.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": []
+}
