@@ -24,17 +24,17 @@ const Header: React.FC<HeaderProps> = ({ activeSection }) => {
   };
 
   return (
-    <header className="fixed top-0 left-0 w-full z-50 bg-[#001529] shadow-2xl">
+    <header className="fixed top-0 left-0 w-full z-50 bg-[#00050e] shadow-2xl">
       <div className="max-w-7xl mx-auto px-6 h-28 flex items-center justify-between">
         <div className="flex-1 lg:flex-none">
           <div 
             onClick={() => scrollTo('home')}
-            className="cursor-pointer group h-24 w-auto flex items-center mix-blend-screen"
+            className="cursor-pointer group h-24 w-auto flex items-center"
           >
             <img 
               src="https://drive.google.com/thumbnail?id=1506KfYErP0H4qVspvrQ6zC_kE1fouLVO&sz=w1000" 
               alt="RZ Roland Zouein Logo" 
-              className="h-full w-auto object-contain hover:scale-105 transition-all duration-300"
+              className="h-full w-auto object-contain hover:scale-105 transition-all duration-300 mix-blend-screen brightness-110 contrast-110"
               referrerPolicy="no-referrer"
             />
           </div>

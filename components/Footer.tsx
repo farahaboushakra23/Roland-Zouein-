@@ -6,16 +6,16 @@ const Footer: React.FC = () => {
   };
 
   return (
-    <footer className="bg-[#001529] pt-32 pb-16 px-6 relative overflow-hidden text-white">
+    <footer className="bg-[#00050e] pt-32 pb-16 px-6 relative overflow-hidden text-white">
       {/* Visual Accent */}
       <div className="absolute top-0 left-0 w-full h-px bg-white/10"></div>
       
       <div className="max-w-7xl mx-auto text-center">
-        <div className="flex justify-center mb-16 mix-blend-screen">
+        <div className="flex justify-center mb-16">
           <img 
             src="https://drive.google.com/thumbnail?id=1506KfYErP0H4qVspvrQ6zC_kE1fouLVO&sz=w1000" 
             alt="Roland Zouein Brand" 
-            className="h-64 md:h-[30rem] w-auto object-contain hover:scale-105 transition-transform duration-700"
+            className="h-64 md:h-[30rem] w-auto object-contain hover:scale-105 transition-transform duration-700 mix-blend-screen brightness-110 contrast-110"
             referrerPolicy="no-referrer"
           />
         </div>
