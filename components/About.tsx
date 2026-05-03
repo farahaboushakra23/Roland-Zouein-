@@ -37,7 +37,7 @@ const About: React.FC = () => {
               An insurance policy is a document. <span className="text-premium-dark font-medium">A broker is its voice.</span>
             </p>
             <p>
-              By protecting over 100 families, I’ve learned how to listen carefully—sometimes to what is not said—and to build coverage that truly fits each person’s life, needs, and future.
+              By protecting over 300 families, I’ve learned how to listen carefully—sometimes to what is not said—and to build coverage that truly fits each person’s life, needs, and future.
             </p>
             <p className="pt-2 text-premium-dark font-medium">
               My role is simple: to help you think clearly today, so you and your family are protected tomorrow.

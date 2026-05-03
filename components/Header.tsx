@@ -17,7 +17,7 @@ const Header: React.FC<HeaderProps> = ({ activeSection }) => {
     const element = document.getElementById(id);
     if (element) {
       window.scrollTo({
-        top: element.offsetTop - 80,
+        top: element.offsetTop - 112,
         behavior: 'smooth',
       });
     }
@@ -25,14 +25,14 @@ const Header: React.FC<HeaderProps> = ({ activeSection }) => {
 
   return (
     <header className="fixed top-0 left-0 w-full z-50 bg-[#001529] shadow-2xl">
-      <div className="max-w-7xl mx-auto px-6 h-20 flex items-center justify-between">
+      <div className="max-w-7xl mx-auto px-6 h-28 flex items-center justify-between">
         <div className="flex-1 lg:flex-none">
           <div 
             onClick={() => scrollTo('home')}
-            className="cursor-pointer group h-16 w-auto flex items-center"
+            className="cursor-pointer group h-24 w-auto flex items-center mix-blend-screen"
           >
             <img 
-              src="https://drive.google.com/thumbnail?id=1BEaFklnAOUDjb6LDNEsh57WMxk50XsiX&sz=w1000" 
+              src="https://drive.google.com/thumbnail?id=1506KfYErP0H4qVspvrQ6zC_kE1fouLVO&sz=w1000" 
               alt="RZ Roland Zouein Logo" 
               className="h-full w-auto object-contain hover:scale-105 transition-all duration-300"
               referrerPolicy="no-referrer"

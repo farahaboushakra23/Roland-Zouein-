@@ -15,7 +15,7 @@ const App: React.FC = () => {
   useEffect(() => {
     const handleScroll = () => {
       const sections = ['home', 'about', 'services', 'consultation', 'contact'];
-      const scrollPosition = window.scrollY + 100;
+      const scrollPosition = window.scrollY + 120;
 
       for (const section of sections) {
         const element = document.getElementById(section);

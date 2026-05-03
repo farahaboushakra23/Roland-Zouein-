@@ -11,11 +11,11 @@ const Footer: React.FC = () => {
       <div className="absolute top-0 left-0 w-full h-px bg-white/10"></div>
       
       <div className="max-w-7xl mx-auto text-center">
-        <div className="flex justify-center mb-16">
+        <div className="flex justify-center mb-16 mix-blend-screen">
           <img 
-            src="https://drive.google.com/thumbnail?id=1BEaFklnAOUDjb6LDNEsh57WMxk50XsiX&sz=w1000" 
+            src="https://drive.google.com/thumbnail?id=1506KfYErP0H4qVspvrQ6zC_kE1fouLVO&sz=w1000" 
             alt="Roland Zouein Brand" 
-            className="h-40 md:h-64 w-auto object-contain hover:scale-105 transition-transform duration-700"
+            className="h-64 md:h-[30rem] w-auto object-contain hover:scale-105 transition-transform duration-700"
             referrerPolicy="no-referrer"
           />
         </div>
