@@ -7,8 +7,8 @@ const About: React.FC = () => {
         <div className="relative">
           <div className="aspect-[4/5] rounded-[2.5rem] overflow-hidden shadow-2xl border-4 border-slate-50 bg-slate-100">
              <img 
-               src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?q=80&w=1974&auto=format&fit=crop" 
-               alt="Professional Portrait" 
+               src="https://drive.google.com/thumbnail?id=1fSP5RBrGeugQgo-BCFVEOllJDv6x0rAu&sz=w1000" 
+               alt="Roland Zouein Portrait" 
                className="w-full h-full object-cover grayscale-0 hover:scale-105 transition-transform duration-1000"
                referrerPolicy="no-referrer"
              />

@@ -15,7 +15,7 @@ const Footer: React.FC = () => {
           <img 
             src="https://drive.google.com/thumbnail?id=1506KfYErP0H4qVspvrQ6zC_kE1fouLVO&sz=w1000" 
             alt="Roland Zouein Brand" 
-            className="h-64 md:h-[30rem] w-auto object-contain hover:scale-105 transition-transform duration-700 mix-blend-screen brightness-110 contrast-110"
+            className="h-80 md:h-[40rem] w-auto object-contain hover:scale-105 transition-transform duration-700 mix-blend-screen brightness-110 contrast-125"
             referrerPolicy="no-referrer"
           />
         </div>
