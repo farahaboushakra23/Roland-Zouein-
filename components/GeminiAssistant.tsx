@@ -33,7 +33,7 @@ const GeminiAssistant: React.FC = () => {
         config: {
           systemInstruction: `You are the premium digital concierge for Roland Zouein, an elite insurance broker in Lebanon. 
           Roland has over 10 years of experience and 100+ families protected. 
-          His slogan is "Think Today. Protect Tomorrow." and "Insurance Is Not a Policy, It Is a Broker."
+          His slogan is "Think Today. Protect Tomorrow." and "Insurance Is Not a Policy, It's a Broker."
           
           Roland provides a comprehensive suite of protection services:
           1. MEDICAL

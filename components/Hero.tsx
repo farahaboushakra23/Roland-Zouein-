@@ -7,7 +7,7 @@ const Hero: React.FC = () => {
         
         <h1 className="text-5xl md:text-8xl serif leading-[1.1] mb-8 max-w-5xl tracking-tight text-slate-900">
           Insurance Is Not A Policy <br className="hidden md:block" />
-          <span className="text-premium-gold font-normal text-6xl md:text-8xl">It Is A Broker.</span>
+          <span className="text-premium-gold font-normal text-6xl md:text-8xl">It's A Broker.</span>
           <div className="mt-8 text-black tracking-[0.5em] font-black uppercase text-lg" style={{ fontFamily: 'Inter, sans-serif' }}>ROLAND ZOUEIN</div>
         </h1>
 
